@@ -1,4 +1,4 @@
-# Quiz App
+# Weather App
 Hi everyone!
 
 This is my third published React app and it's an app which will show you the weather information for a specific city.
