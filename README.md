@@ -8,7 +8,7 @@ The app was built mainly using functional components and hooks, also using the f
 - https://www.npmjs.com/package/react-toastify
 
 # The published Quiz App
-- https://armin-suljovikj.github.io/quiz-app/
+- https://armin-suljovikj.github.io/weather-app/
 
 # APIs used
 - The questions are retrieved via an API from https://home.openweathermap.org using fetch.
